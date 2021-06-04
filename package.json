@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"tailwind": "^4.0.0"
+	},
+	"name": "peanut-rule",
+	"version": "0.1",
+	"description": "Web app to get the peanut rule or stuff",
+	"main": "index.js",
+	"repository": "https://github.com/halivert/peanut-rule",
+	"author": "Halí V. <halivelazquez@outlook.com>",
+	"license": "MIT",
+	"private": true
+}
