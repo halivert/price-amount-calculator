@@ -3,9 +3,15 @@ import Calculator from "./Calculator";
 
 function App() {
 	return (
-		<div className="flex justify-center h-full items-center">
-			<Calculator />
-		</div>
+		<>
+			<h1 className="flex justify-center py-3 px-4 text-2xl font-bold text-blue-500">
+				Calculadora de precios
+			</h1>
+			<hr className="mb-4" />
+			<div className="flex justify-center">
+				<Calculator />
+			</div>
+		</>
 	);
 }
 
